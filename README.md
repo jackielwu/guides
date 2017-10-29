@@ -14,7 +14,7 @@ This repo is where we plan and maintain these Guide articles, which we then host
 - [Article style guide](#article-style-guide)
 - [License](#license)
 
-## What are Guide articles?
+## What are Guide articles
 Guide articles can be an explanation of a syntax, design pattern, what aria labels are for, or something like what the numbers mean in the top right-hand corner of your screen when at freecodecamp.org. You can find an [example article about HTML Elements here](./src/pages/html/elements/index.md).
 
 ## What can I write an article about?
